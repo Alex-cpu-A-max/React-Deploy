@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87838212.chunk.css",
+    "main.js": "/static/js/main.fc4d732d.chunk.js",
+    "main.js.map": "/static/js/main.fc4d732d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6fe4bec2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6fe4bec2.js.map",
+    "static/js/2.d080502d.chunk.js": "/static/js/2.d080502d.chunk.js",
+    "static/js/2.d080502d.chunk.js.map": "/static/js/2.d080502d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.87838212.chunk.css.map": "/static/css/main.87838212.chunk.css.map",
+    "static/js/2.d080502d.chunk.js.LICENSE.txt": "/static/js/2.d080502d.chunk.js.LICENSE.txt",
+    "static/media/MainPage.css": "/static/media/Pattaya-Regular.025b3946.ttf",
+    "static/media/background.b848d10f.svg": "/static/media/background.b848d10f.svg",
+    "static/media/hero.a0f437e5.png": "/static/media/hero.a0f437e5.png",
+    "static/media/rocket.45d4c37e.png": "/static/media/rocket.45d4c37e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fe4bec2.js",
+    "static/js/2.d080502d.chunk.js",
+    "static/css/main.87838212.chunk.css",
+    "static/js/main.fc4d732d.chunk.js"
+  ]
+}
